@@ -1,6 +1,6 @@
 # Hi, I’m Siva Sai Udayagiri 👋
 
-I’m a Full Stack Java Developer with 5+ years of experience building backend-heavy web applications using Java, Spring Boot, REST APIs, SQL, AWS, React, and Angular.
+I’m a Full Stack Java Engineer with 5+ years of experience building backend-heavy web applications using Java, Spring Boot, REST APIs, SQL, AWS, React, and Angular.
 
 I earned my Master’s degree in Computer Science from the University of Dayton and have hands-on experience building full-stack applications with clean API design, database integration, cloud services, and modern frontend frameworks.
 
@@ -29,6 +29,13 @@ AWS, Amazon S3, Amazon Bedrock, Apache Kafka
 ### Tools
 
 Git, GitHub, IntelliJ IDEA, Postman, Maven, Jenkins, GitHub Actions
+
+---
+
+## Education
+
+* Master’s degree in Computer Science, University of Dayton
+* Bachelor’s degree in Computer Science, J.N.T.U.H.
 
 ---
 

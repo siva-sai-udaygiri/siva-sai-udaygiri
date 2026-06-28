@@ -2,7 +2,7 @@
 
 I’m a Full Stack Java Developer with 5+ years of experience building backend-heavy web applications using Java, Spring Boot, REST APIs, SQL, AWS, React, and Angular.
 
-I completed my Master’s degree from the University of Dayton and have hands-on experience developing full-stack applications with clean API design, database integration, cloud services, and modern frontend frameworks.
+I earned my Master’s degree in Computer Science from the University of Dayton and have hands-on experience building full-stack applications with clean API design, database integration, cloud services, and modern frontend frameworks.
 
 I’m focused on backend engineering, full-stack application development, cloud-based systems, microservices, and building reliable software that is easy to maintain and scale.
 

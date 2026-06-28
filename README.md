@@ -46,5 +46,5 @@ Git, GitHub, IntelliJ IDEA, Postman, Maven, Jenkins, GitHub Actions
 ## Contact
 
 * GitHub: `siva-sai-udaygiri`
-* LinkedIn: Add your LinkedIn profile link here
-* Email: Add your professional email here
+* LinkedIn: https://www.linkedin.com/in/sivasai-u/
+* Email: sivasai.udayagiri11@gmail.com
